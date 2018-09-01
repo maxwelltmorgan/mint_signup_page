@@ -1,6 +1,6 @@
 # Mint.com signup page
 
-![screenshot][mint_screenshot.jpg]
+![screenshot](mint_screenshot.jpg)
 
 1. HTML and CSS
 2. Semantic HTML5
